@@ -1,0 +1,21 @@
+.footer{
+	margin-block: 2rem;
+}
+.footer-list{
+	display: flex;
+	justify-content: center;
+	gap: 1.5rem;
+	list-style: none;
+	margin-bottom: 0.5rem;
+}
+.footer-list-item{
+	margin-bottom: 0;
+}
+.footer-social-icon{
+	width: 40px;
+	height: 40px;
+	object-fit: contain;
+}
+.footer-copyright{
+	text-align: center;
+}
